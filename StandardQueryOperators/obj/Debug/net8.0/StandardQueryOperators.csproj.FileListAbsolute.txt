@@ -1,0 +1,15 @@
+c:\Kuldeep\LINQ\StandardQueryOperators\bin\Debug\net8.0\StandardQueryOperators.exe
+c:\Kuldeep\LINQ\StandardQueryOperators\bin\Debug\net8.0\StandardQueryOperators.deps.json
+c:\Kuldeep\LINQ\StandardQueryOperators\bin\Debug\net8.0\StandardQueryOperators.runtimeconfig.json
+c:\Kuldeep\LINQ\StandardQueryOperators\bin\Debug\net8.0\StandardQueryOperators.dll
+c:\Kuldeep\LINQ\StandardQueryOperators\bin\Debug\net8.0\StandardQueryOperators.pdb
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.AssemblyInfoInputs.cache
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.AssemblyInfo.cs
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.csproj.CoreCompileInputs.cache
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.sourcelink.json
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.dll
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\refint\StandardQueryOperators.dll
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.pdb
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\StandardQueryOperators.genruntimeconfig.cache
+c:\Kuldeep\LINQ\StandardQueryOperators\obj\Debug\net8.0\ref\StandardQueryOperators.dll
