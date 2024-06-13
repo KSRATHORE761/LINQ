@@ -1,0 +1,14 @@
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\bin\Debug\net8.0\WalkthroughWritingLinqQueries.exe
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\bin\Debug\net8.0\WalkthroughWritingLinqQueries.deps.json
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\bin\Debug\net8.0\WalkthroughWritingLinqQueries.runtimeconfig.json
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\bin\Debug\net8.0\WalkthroughWritingLinqQueries.dll
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\bin\Debug\net8.0\WalkthroughWritingLinqQueries.pdb
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.GeneratedMSBuildEditorConfig.editorconfig
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.AssemblyInfoInputs.cache
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.AssemblyInfo.cs
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.csproj.CoreCompileInputs.cache
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.dll
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\refint\WalkthroughWritingLinqQueries.dll
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.pdb
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\WalkthroughWritingLinqQueries.genruntimeconfig.cache
+c:\Kuldeep\LINQ\WalkthroughWritingLinqQueries\obj\Debug\net8.0\ref\WalkthroughWritingLinqQueries.dll
